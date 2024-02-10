@@ -1,11 +1,11 @@
 import config from '../config/index.js';
 import en from './en.js';
-import ja from './ja.js';
+import ja from './th.js';
 import zh from './zh.js';
 
 const locales = {
   en,
-  ja,
+  th,
   zh,
   zh_TW: zh,
   zh_CN: zh,
